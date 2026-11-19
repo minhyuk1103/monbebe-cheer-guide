@@ -1,0 +1,32 @@
+{
+  "name": "몬스타엑스 응원법 모음",
+  "short_name": "MX 응원법",
+  "description": "몬스타엑스 응원법을 공연장에서 오프라인으로도 바로 볼 수 있는 응원법 모음",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0d17",
+  "theme_color": "#0b0d17",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
